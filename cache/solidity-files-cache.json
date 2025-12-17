@@ -1,0 +1,113 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/rmanello/CURSOR/ZAMA/fhe_chat/contracts/ChatRoom.sol": {
+      "lastModificationDate": 1765560652383,
+      "contentHash": "c4926d492076c5e4edd5ced578747a14",
+      "sourceName": "contracts/ChatRoom.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ChatRoom"
+      ]
+    },
+    "/Users/rmanello/CURSOR/ZAMA/fhe_chat/contracts/TicTacToeFHE.sol": {
+      "lastModificationDate": 1765979280009,
+      "contentHash": "39ed9c95f77c7ac0789a2ad10e0891ff",
+      "sourceName": "contracts/TicTacToeFHE.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "TicTacToeFHE"
+      ]
+    },
+    "/Users/rmanello/CURSOR/ZAMA/fhe_chat/contracts/TicTacToeMock.sol": {
+      "lastModificationDate": 1765979643255,
+      "contentHash": "3e1bf3620f36254cc5e57f2ccf9c8483",
+      "sourceName": "contracts/TicTacToeMock.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "TicTacToeMock"
+      ]
+    }
+  }
+}
