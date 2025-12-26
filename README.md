@@ -9,7 +9,7 @@
 .Two Game Modes  
 .Powered by Zama FHEVM
 
-> **Because regular tic tac toe wasn't complicated enough, let's put it on the blockchain with homomorphic encryption!** 🚀
+**Because regular tic tac toe wasn't complicated enough, let's put it on the blockchain with homomorphic encryption!** 🚀
 
 A revolutionary decentralized application where you can play the classic game of Tic Tac Toe with **fully homomorphic encryption (FHE)**. Your moves remain encrypted throughout the game - even the smart contract can't see them until you reveal the winner!
 
