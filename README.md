@@ -1,11 +1,13 @@
 # 🎮 Tic Tac Toe on Blockchain with FHE
-                                                         
-    X │ O │ X          🔐 Fully Encrypted Moves           
-   ───┼───┼───         ⛓️  On-Chain Forever               
-    O │ X │           🎯  Two Game Modes                   
-   ───┼───┼───         🚀 Powered by Zama FHEVM          
-      │ O │                                                
 
+❌ ⭕ ❌  
+⭕ ❌  
+⭕      
+
+.Fully Encrypted Moves  
+.On-Chain Forever  
+.Two Game Modes  
+.Powered by Zama FHEVM
 
 > **Because regular tic tac toe wasn't complicated enough, let's put it on the blockchain with homomorphic encryption!** 🚀
 
